@@ -6,7 +6,7 @@ class Porcentagem{
 	
 	//Configurações
 	var $pauseIn = 1; //Modo alto desempenho (0 desligado / 1 ligado)
-	var $caracteres = 80; //Tamanho da tela width (integer)
+	var $caracteres = 110; //Tamanho da tela width (integer)
 	var $mostrar = array('barra'=>true,'tempo'=>true,'roda'=>true,'fps'=>true); //Define o que ira aparecer na tela (seguir padrao)
 	var $idioma = 'pt-Br'; //Idioma padrão da classe
 	
